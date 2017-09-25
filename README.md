@@ -35,6 +35,9 @@ This encompasses a couple different Agile concepts into one, but continuous deli
 - Support Individuals
 - Reflection
 
+#### In Practice
+Spotify has a really good video series ([part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)) about their engineering culture. You should check it out!
+
 ## Code Quality
 The readability, structure, and testability of your product matter a lot, especially on larger and more sustained projects. UCLA doesn’t do much in the way of teaching what good collaborative practices are, so we detailed a some below. Note that many of these are opinion based, but have reasoning behind them. If you disagree with the reasoning, make a pull request and let us know why! However, just because you disagree with the reason that does not mean you can’t follow them—they are standards so that teams within DB can work easily together and members can switch teams with minimal ramp-up. 
 
